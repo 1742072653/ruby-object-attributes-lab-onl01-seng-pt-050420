@@ -13,5 +13,3 @@ class Person
     @job
   end
 end
-fido=dog.new
-fido.new = "fido"
