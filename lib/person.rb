@@ -14,3 +14,4 @@ class Person
   end
 end
 fido=dog.new
+fido.new = "fido"
